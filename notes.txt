@@ -1,0 +1,27 @@
+What does it understand?
+
+It takes words/characters and tries to match them with things it knows how to draw, but its visual vocabulary is very very limited. 
+
+It seems to understand the circle pretty good and it does have a reasonable vocabulary of shapes of characters. Some quite strong others very weak.
+
+If it knows a shape well it is able to modify it, larger smaller etc. The fact that these modified shapes are inconsistent and irregular suggests that it really is trying to draw what it wants, not what it memorised, and is struggling.
+
+Most things it can't draw. Some things it knows so well it can freestyle. A little...
+
+The times when it does 4 good examples with legible letters and ok spelling and the there's one (often 'bubble letters') that is just an amorphous circle. A bubble? It is definitely trying to  trying to draw characters it knows how to draw but skips into some completely other territory. It is able to draw ideas - mountain, car, face, etc, as well as characters
+
+Seems to really know what a circle is. Definitely knows what a face is. Has a vague idea about mountains, it will either revert to memorised versions or get lost when it tries to make its own. Very rarely it will draw a new legit toddler quality drawing of mountains.
+
+There were some perspective tests I didn't save that hinted at some understanding. There is one in there with a car where the hillsides are at not 45 degrees (slash character angle) and it is trying to stretch the hill, it also gets weird about where the car wheel should be as though it's trying to take perspective into account. *def* full tea leaf reading on my part and nothing to back that up.
+
+I'm still pretty convinced it knows more than I've found. The 'ascii-art' thing stops it from going deeper, it just pops out standard 'ascii-art' most of the time but now and again some really interesting things pop out, and often seemingly totally unrelated.
+
+There are thousands of photographs rendered with ascii on the internet, if it's seen them it may know a lot more about images than I have been able to expose. There are hints of that in the mona lisa and 5-point star tests. it does use shading in places, but I can't tell if it knows it's using shading. it says it does, even when there's none, which makes me think it 'thinks' about images different than text.
+
+This disconnect I think is the key to understanding what is going on.
+
+Asking it to draw something thing that it doesn't know will make it just draw random stuff, like pikachu or a stick figure. Again, very disconnected. Theoretically it may have some connection to the words it is trying to draw, might just be flailing.
+
+Misspelling. That's *huge* but way too many moving parts to even begin thinking about what's going on there. Again, figure this out and you'd understand so much about how it's spatial/visual reasoning works. It misspells phonetically accurately which is too much, has to be coincidence.
+
+Like it has a visual section and the communication with the main text side of things doesn't work great, or the visual centre is just really really bad.
